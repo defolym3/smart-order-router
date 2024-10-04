@@ -44,7 +44,6 @@ export enum ChainName {
   AVALANCHE = 'avalanche-mainnet',
   FUJI = 'avalanche-fuji',
   BASE = 'base-mainnet',
-  BASE_SEPOLIA = 'base-goerli',
   BASE_SEPOLIA = 'base-sepolia',
   MODE = 'mode-mainnet',
   MODE_TESTNET = 'mode-testnet',
