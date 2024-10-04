@@ -25,7 +25,6 @@ export enum ChainName {
   KAIA = 'kaia',
   KAIROS = 'kairos',
   MAINNET = 'mainnet',
-  GOERLI = 'goerli',
   SEPOLIA = 'sepolia',
   OPTIMISM = 'optimism-mainnet',
   OPTIMISM_GOERLI = 'optimism-goerli',
